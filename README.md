@@ -4,7 +4,7 @@
 
 PostgreSQL is a free and open-source relational database management system. Using a database instead of regular spreadsheet will allow us to store a larger amount of data as well as offer a much higher capacity to later process our data. 
 
-**In this project, we push our data of all [Tiki](https://tiki.vn/) products to a PostgreSQL database.** 
+**In this project, we push the data of all [Tiki](https://tiki.vn/) products to a PostgreSQL database.** 
 
 ## PostgreSQL
 ### Connect to PostgreSQL database server
