@@ -1,4 +1,4 @@
-# Scraping all products of Tiki
+# Scraping all products from Tiki
 
 ## Introduction
 
