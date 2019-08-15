@@ -1,7 +1,7 @@
 # Scraping all products from Tiki
 **Phuong T.M. CHU**
 
-**Scraping all products from Tiki** is the project that I finished after the first week of studying Machine Learning.
+**Scraping all products from Tiki** is the project that I finished after the first week of studying **Machine Learning**.
 
 ## Introduction
 
