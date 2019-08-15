@@ -1,5 +1,7 @@
 # Scraping all products from Tiki
 
+**Scraping all products from Tiki** is the project that we finished after the first week of studying Machine Learning.
+
 ## Introduction
 
 PostgreSQL is a free and open-source relational database management system. Using a database instead of regular spreadsheet will allow us to store a larger amount of data as well as offer a much higher capacity to later process our data. 
